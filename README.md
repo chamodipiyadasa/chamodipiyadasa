@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Chamodi Piyadasa</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+
 
 
 - 🌱 I’m currently learning **React Native,Android,IOS**
